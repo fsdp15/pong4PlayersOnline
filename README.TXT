@@ -22,6 +22,8 @@ Now, run it in each peer by typing "python game.py" in the terminal. You can pla
 
 ABOUT:
 
+This is a 4-Player Online Pong made in a 24-hour marathon.
+
 I implemented the 4-player Online Pong using Python along with Pygame library. It runs in a peer to peer model 
 using Python low level sockets interface. The game only starts when all the peers listed in the hosts.txt are connected.
 
